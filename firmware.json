@@ -1,0 +1,5 @@
+{
+    "type": "esp32-fota-http",
+    "version": "3.4",
+    "url": "https://raw.githubusercontent.com/denruss/GSM_Truck_Tracker/main/firmware33.bin"
+}
